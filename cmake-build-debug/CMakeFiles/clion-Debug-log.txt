@@ -1,0 +1,19 @@
+C:\Users\hugom\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/hugom/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S "C:\Users\hugom\OneDrive\Bureau\Enigma 1ère année\Cours\C\Jeu du Pendu (Hangmangame) Hugo Matyla Engima 1ere année C" -B "C:\Users\hugom\OneDrive\Bureau\Enigma 1ère année\Cours\C\Jeu du Pendu (Hangmangame) Hugo Matyla Engima 1ere année C\cmake-build-debug"
+-- The C compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Users/hugom/AppData/Local/Programs/CLion/bin/mingw/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done (2.9s)
+CMake Error at CMakeLists.txt:6 (add_executable):
+  Cannot find source file:
+
+    handmangame2.c
+
+
+CMake Error at CMakeLists.txt:6 (add_executable):
+  No SOURCES given to target: untitled5
+
+
+CMake Generate step failed.  Build files cannot be regenerated correctly.
